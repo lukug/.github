@@ -5,7 +5,7 @@ Whether you are an experienced Kotlin developer or just starting to learn the la
 
 ---
 
-### 🎯 Our Meetups Focus On:
+### 🎯 Our Group Focus On:
 - **Introducing** more people to the wonders of Kotlin through tech-sharing
 - **Providing** an open environment that encourages communication and collaboration among developers
 - And most importantly, **Having FUN!** 🎉
